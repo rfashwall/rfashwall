@@ -3,11 +3,11 @@
 <p align="left"> <a href="https://twitter.com/rabieh_fashwall" target="blank"><img src="https://img.shields.io/twitter/follow/rabieh_fashwall?logo=twitter&style=for-the-badge" alt="rabieh_fashwall" /></a>  <img src="https://komarev.com/ghpvc/?username=rfashwall&label=Profile%20views&color=0e75b6&style=flat" alt="rfashwall" /> </p>
 
 <p>
-Experienced Software Engineer with a demonstrated history of 13+ years working in the computer software industry. Skilled in building Cloud Native applications, Web applications mainly in Golang, .Net and, React (TypeScript). During the course of the work, I accumulated a lot of experiences in various fields of languages and tools like c#, golang, javascript with expose to multiple cloud solutions like AWS, GCP, DO, etc..
+I am a seasoned DevOps and Software Engineer with over 14 years of experience in the field. Throughout my career, I have had the opportunity to work with a wide range of tools and projects, honing my skills and expertise in the process.
 
-I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of the organization.
+I am proficient in several programming languages including GoLang, .NET, and JavaScript, and have experience working with frameworks such as React JS and Next JS. As a DevOps Engineer, I have extensive knowledge of tools such as ArgoCD, GitLab CI, Helm Charts, and Kubernetes.
 
-Developing cutting edge platform using microservices and Go with latest DevOps tools.
+In addition to my technical skills, I have a strong understanding of design patterns, system design, and various other topics related to coding, DevOps, and architecture. I am constantly seeking to expand my knowledge and stay up-to-date with the latest industry developments.
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rfashwall&show_icons=true&locale=en" alt="rfashwall" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rfashwall&" alt="rfashwall" /></p>
